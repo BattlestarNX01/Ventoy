@@ -1,0 +1,72 @@
+{
+    "theme":{
+        "file": "/ventoy/themes/distro/theme.txt",
+        "gfxmode": "1920x1080",
+        "fonts":[
+            "/ventoy/themes/distro/terminus-12.pf2",
+            "/ventoy/themes/distro/terminus-14.pf2",
+            "/ventoy/themes/distro/terminus-16.pf2",
+            "/ventoy/themes/distro/terminus-18.pf2",
+            "/ventoy/themes/distro/ubuntu_regular_17.pf2",
+            "/ventoy/themes/distro/ubuntu_regular_20.pf2"
+        ]
+    },
+    "menu_class":[
+        {
+            "key": "Windows11",
+            "class": "windows11"
+        },
+        {
+            "key": "Archlinux-",
+            "class": "archlinux"
+        },
+        {
+            "key": "Fedora-Workstation",
+            "class": "fedora"
+        },
+        {
+            "key": "FreeBSD-",
+            "class": "freebsd"
+        },
+        {
+            "key": "GhostBSD-",
+            "class": "freebsd"
+        },
+        {
+            "key": "linuxmint-",
+            "class": "linuxmint"
+        },
+        {
+            "key": "OpenBsd",
+            "class": "anonymous"
+        },
+        {
+            "key": "MemTest86",
+            "class": "memtest"
+        },
+        {
+            "key": "lmde-",
+            "class": "linuxmint"
+        },
+        {
+            "dir": "/Linux",
+            "class": "linux"
+        },
+        {
+            "dir": "/BSD",
+            "class": "BSD"
+        },
+        {
+            "dir": "/Windows",
+            "class": "windows"
+        },
+        {
+            "key": "HBCD_PEx64",
+            "class": "windows"
+        },
+        {
+            "key": "systemrescue-",
+            "class": "SystemRescueCD"
+        }
+    ]
+}
